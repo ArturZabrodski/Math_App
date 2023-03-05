@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Математика для детей</string>
+    <string name="btnNext">Следующее задание</string>
+    <string name="btnVerification">Проверить ответ</string>
+    <string name="btnFinish">Закончить</string>
+    <string name="name">Введите своё имя</string>
+</resources>
